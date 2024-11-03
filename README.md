@@ -1,8 +1,9 @@
-# Web Stack Specialization - Front-end
+# Web Stack Specialization
+# Alx-FrontEnd
 ![Holberton logo](https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png)
 > Web Stack - Front-end
 
-## Description:bulb:
+## Projects:
 * Advanced HTML/CSS
 * Developer Tools
 * SCSS
@@ -41,5 +42,5 @@
 ---
 
 ## Author
-### Name: Wilfort Abel
-### Email: juiciwhilf@gmail.com
+* Name: Wilfort Abel
+* Email: juiciwhilf@gmail.com
